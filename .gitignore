@@ -1,0 +1,5 @@
+
+cat >> ~/holbertonschool-shell-repo/.gitignore << 'EOF'
+iacta
+ls_cwd_content
+\\*
